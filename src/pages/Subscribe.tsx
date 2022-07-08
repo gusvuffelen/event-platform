@@ -25,7 +25,7 @@ export function Subscribe() {
           <Logo />
 
           <h1 className="mt-8 text-[2.5rem] leading-tight">
-            Defina uma
+            Build uma
             <strong className="text-blue-500">aplicação completa</strong>, do
             zero, com <strong className="text-blue-500">React</strong>
           </h1>
